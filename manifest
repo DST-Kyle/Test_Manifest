@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <remote  name="SeWaGitOrigin"
+             fetch=".."/>
+
+    <default remote="SeWaGitOrigin"
+             revision="main"
+             sync-j="4"
+             sync_c="false"
+             sync_s="false"/>
+
+    <!-- <project path="manifest" name="" groups="" revision="" remote="">
+        <copyfile dest="" src=""/>
+    </project> -->
+    <!-- <project path="" name="" groups="" revision="" remote=""/> -->
+
+    <project path="Test_Manifest" name="DST-Kyle/Test_Manifest"/>
+    <project path="Test_Main" name="DST-Kyle/Test_Main"/>
+    <project path="Test_Sub" name="DST-Kyle/Test_Sub"/>
+
+</manifest>
