@@ -17,6 +17,6 @@
 
     <project path="Test_Manifest" name="DST-Kyle/Test_Manifest"/>
     <project path="Test_Main" name="DST-Kyle/Test_Main"/>
-    <project path="Subs/Test_Sub" name="DST-Kyle/Test_Sub" revision="Sub1"/>
+    <project path="Test_Sub" name="DST-Kyle/Test_Sub"/>
 
 </manifest>
