@@ -15,7 +15,7 @@
     </project> -->
     <!-- <project path="" name="" groups="" revision="" remote=""/> -->
 
-    <project path="Test_Manifest" name="DST-Kyle/Test_Manifest"/>
+    <project path="Test_Manifest" name="DST-Kyle/Test_Manifest" revision="main_1"/>
     <project path="Test_Main" name="DST-Kyle/Test_Main"/>
     <project path="Test_Sub" name="DST-Kyle/Test_Sub"/>
 
